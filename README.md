@@ -1,2 +1,2 @@
 # AI-Hoshino-bot
-Discord bot using DL to detect malicious URL 
+Discord bot using DL model to detect malicious URL 
